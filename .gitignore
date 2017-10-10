@@ -1,1 +1,8 @@
+# JetBrains IDE files
+.idea
+
+# OS X files
 .DS_Store
+
+# OSM data snapshots
+data/
