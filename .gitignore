@@ -6,3 +6,6 @@
 
 # OSM data snapshots
 data/
+
+# Files containing sensitive information
+tegola.toml
